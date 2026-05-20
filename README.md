@@ -1,83 +1,104 @@
-<h1 align="center">Hi, I'm Andrew Young</h1>
+<p align="center">
+  <img src="assets/banner.png" alt="Andrew Young - Banner" width="80%">
+</p>
+
+<h1 align="center">Hi there, I'm Andrew Young!</h1>
 <h3 align="center">Data Scientist | Cloud Architect | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayoung626&label=Profile%20views&color=0e75b6&style=flat" alt="ayoung626" />
-</p>
-
-## About Me
-
-- I'm a **Data Scientist** and **Cloud Architect** passionate about building scalable data solutions
-- Currently exploring advanced ML architectures and cloud-native technologies
-- Ask me about **Data Science, AWS, Cloud Architecture, and Full-Stack Development**
-- How to reach me: **andrewyoung626@gmail.com**
-
-## Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/andrew-young6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-young6" height="30" width="40" />
+  <a href="https://linkedin.com/in/andrew-young6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-## Languages and Tools
-
-### Cloud & Infrastructure
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <a href="mailto:andrewyoung626@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
-  </a>
-</p>
-
-### Data Science & Analytics
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/>
-  </a>
-  <a href="https://mode.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/modeanalytics/modeanalytics-icon.svg" alt="mode analytics" width="40" height="40"/>
-  </a>
-  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_quicksight/amazon_quicksight-icon.svg" alt="amazon quicksight" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="redshift" width="40" height="40"/>
-  </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoung626&show_icons=true&theme=react&hide_border=true" alt="ayoung626's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoung626&layout=compact&theme=react&hide_border=true" alt="ayoung626's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoung626&theme=react&hide_border=true" alt="ayoung626's GitHub Streak" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayoung626&theme=react&no-frame=true&no-bg=false&margin-w=4" alt="ayoung626's GitHub Trophies" />
 </p>
 
 ---
+
+### About Me
+
+I am a **BI Analyst, Data Engineer, and Cloud Architect** who bridges the gap between raw data systems and business insights. With a **Master of Science in Analytics from Georgia Tech** and an **AWS Certified Solutions Architect – Associate** credential, I specialize in designing scalable cloud infrastructure and high-performance data workflows to power strategic decision-making. 
+
+I am a strong advocate of agentic workflows and AI-assisted software development. I use Claude Code extensively to automate engineering operations, building and deploying custom plugins and workspace skills to optimize workflows for my team and cross-functional partners.
+
+- **Currently exploring**: Web development with Next.js, advanced developer-agent workflows, and algorithmic game simulations.
+- **Ask me about**: AWS Cloud Architecture, Data Engineering, Claude Code Skill Customization, and Georgia Tech's MSA program.
+- **Outside of work**: Ask me about my Yahtzee simulator that runs millions of games to identify optimal strategies, or my current project: vibe-coding a digital version of my favorite board game using Next.js.
+
+---
+
+### Languages & Technologies
+
+Here is a curated look at the core languages, frameworks, and cloud utilities I leverage to build state-of-the-art solutions:
+
+#### Languages & Core Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+#### Cloud, DevOps & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="AWS Amplify" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+#### Data Science, Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Claude-CC9900?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
+#### Data Engineering & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="Redshift" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+#### Visualization, Frameworks & BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03F?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
+  <img src="https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="QuickSight" />
+  <img src="https://img.shields.io/badge/Mode%20Analytics-002E3E?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Mode" />
+  <img src="https://img.shields.io/badge/Tableau-E12827?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Domo-0086CE?style=for-the-badge&logo=domo&logoColor=white" alt="Domo" />
+</p>
+
+---
+
+### GitHub Analytics
+
+Here is a live look at my coding activity and stats across projects:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoung626&show_icons=true&theme=tokyonight&hide_border=true" alt="Andrew's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoung626&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoung626&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoung626&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayoung626&label=Profile%20Views&color=4facfe&style=flat-square" alt="Profile Views" />
+</p>
