@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Andrew Young - Banner" width="80%">
+  <img src="assets/banner.png" alt="Andrew Young - Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Andrew Young!</h1>
