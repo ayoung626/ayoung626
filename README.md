@@ -2,8 +2,8 @@
   <img src="assets/banner_v2.png" alt="Andrew Young - Banner" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Andrew Young!</h1>
-<h3 align="center">Data Scientist | Cloud Architect | Problem Solver</h3>
+<h1 align="center">Andrew Young</h1>
+<h3 align="center">BI Analyst | Data Engineer | Cloud Architect</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/andrew-young6" target="_blank">
@@ -11,6 +11,9 @@
   </a>
   <a href="mailto:andrewyoung626@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ayoung626.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-070A13?style=for-the-badge&logo=google-chrome&logoColor=white&color=06b6d4" alt="Portfolio Website" />
   </a>
 </p>
 
@@ -82,13 +85,31 @@ Here is a curated look at the core languages, frameworks, and cloud utilities I 
 
 ---
 
+### Connect & Live Activity
+
+Outside of engineering, I track my running performance and active games live. You can review my serverless data pipelines in real-time directly on my website or connect with me via these platforms:
+
+<p align="left">
+  <a href="https://chess.com/member/Cobalt626" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-Cobalt626-312e2b?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Profile" />
+  </a>
+  <a href="https://ayoung626.github.io/#about" target="_blank">
+    <img src="https://img.shields.io/badge/Strava-Workouts-fc4c02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava Pipeline" />
+  </a>
+</p>
+
+---
+
 ### GitHub Analytics
 
 Here is a live look at my coding activity and stats across projects:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoung626&show_icons=true&theme=tokyonight&hide_border=true" alt="Andrew's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoung626&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoung626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andrew's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoung626&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -100,5 +121,5 @@ Here is a live look at my coding activity and stats across projects:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayoung626&label=Profile%20Views&color=4facfe&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayoung626&label=Profile%20Views&color=06b6d4&style=flat-square" alt="Profile Views" />
 </p>
